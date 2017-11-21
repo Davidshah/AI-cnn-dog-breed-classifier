@@ -9,6 +9,7 @@ In this project, we will learn how to build a pipeline that can be used within a
 Download training data:
 * [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.
 * [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.
+* [resnet50 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResnet50Data.npz). Place in repo, at location `path/to/dog-project/bottleneck_features`.
 
 Obtain the necessary Python packages from `requirements.txt`.
 
