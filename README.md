@@ -1,4 +1,4 @@
-# Dog Breed Classifier - Convolutional Neural Networks
+# Dog Breed Classifier - Convolutional Neural Network
 
 ### Overview
 
